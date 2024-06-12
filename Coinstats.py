@@ -2,10 +2,6 @@ import requests
 import datetime
 token = ""
 
-a = 1
-b = 2
-c = 3
-
 class BotHandler:
     def __init__(self, token):
         self.token = token
